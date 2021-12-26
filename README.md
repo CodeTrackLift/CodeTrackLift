@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @CodeTrackLift
-- 👀 I’m interested in fitness, nutrution, snowboarding, and coding!
+- 👀 I’m interested in fitness, nutrition, snowboarding, and coding!
 - 🌱 I’m currently learning using theOdinProject, freeCodeCamp, and starting a Bootcamp in Feb2022.
 - 💞️ I’m looking to collaborate once I got some skills.
 - 📫 CodeTrackLift on Twitter
