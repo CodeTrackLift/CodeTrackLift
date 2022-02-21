@@ -10,7 +10,6 @@ In December of 2021, I stumbled upon freeCodeCamp.org and rediscovered my childh
 
 I look forward to working with you on this exciting part of my journey!
 
-Best Regards,
 Pete
 
 <!---
