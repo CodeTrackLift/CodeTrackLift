@@ -1,14 +1,14 @@
-Hello!
+Hello,
 
-My name is Pete Chu and I have been a professional in the Pharmaceutical industry for the past 20 years. My technical specialities include Facility Start-up, Equipment and System Validation, as well as Quality Engineering.
+My name is Pete and I grew up in the 90s. I fondly remember multi-sided die, Bulletin Board Systems, Sierra games, and AOL CDs.
 
-I have a bachelor's degree in Biological Sciences from the University of Delaware. My experience includes Validation Consulting with Integrated Project Services (IPS), as well as direct employment with Janssen (formerly Centocor, Johnson & Johnson), and Eisai, Inc. (formerly Morphotek).
+'Medicine is my destiny,' or so I was told. I have a Bachelor's Degree in Biological Sciences, and my stationInLife was in the Pharmaceutical Engineering space for over two decades.
 
-With Janssen and Eisai, I was responsible for leading equipment and system qualification efforts as a Senior Validation Engineer. In 2012, I transitioned to a Senior Quality Engineer role within Eisai and was responsible for site metrics, quality dispositions, change controls, and leading investigations. In 2017, I was managing the GMP Document Control and Quality Engineering teams.
+At the mid-point of my career, I enrolled in a Full Stack Coding Bootcamp to pursue my childhood dream of being a Software Developer.
 
-In December of 2021, I stumbled upon freeCodeCamp.org and rediscovered my childhood passion of coding and technology. I am currently at the midpoint of my career and have decided to part ways with Eisai in order to pursue a career change that is in line with a personal passion.
+Please join me, on myCodingJourney.
 
-I look forward to working with you on this exciting part of my journey!
+www.codeByPete.com
 
 Pete
 
