@@ -11,12 +11,7 @@
 - Pursuing a passion of being a Software Developer
 
 ## Technology Stack
-- [x] HTML
-- [x] CSS
-- [x] JavaScript
-- [x] Bootstrap
-- [x] Git
-- [x] VS Code
+<img src='https://www.codebypete.com/pics/about/html5_logo.gif' alt='HTML5 logo' width='30'> <img src='https://www.codebypete.com/pics/about/css3_logo.gif' alt='CSS3 logo' width='30'> <img src='https://www.codebypete.com/pics/about/javascript_logo.gif' alt='JavaScript logo' width='30'> <img src='https://www.codebypete.com/pics/about/bootstrap-logo.svg' alt='Bootstrap logo' width='35'> <img src='https://www.codebypete.com/pics/about/gitLogoOrangeRed.png' alt='VS Code logo' width='30'> <img src='https://www.codebypete.com/pics/about/vsCodeLogo.png' alt='VS Code logo' width='30'>
 
 ## Future Roadmap
 <img src='https://www.codebypete.com/pics/about/mitxPro_logoStacked.jpg' alt='MIT xPro logo' width='20'> MERN Full Stack Coding Bootcamp (in progress, Jul 2022)
