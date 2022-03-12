@@ -1,18 +1,23 @@
-Hello,
+# <img src='https://www.codebypete.com/pics/pharma2code_icon.gif' alt='codeByPete logo' width='30'> ***codeByPete***
 
-My name is Pete and I grew up in the 90s. I fondly remember multi-sided die, Bulletin Board Systems, Sierra games, and AOL CDs.
+## About Me
+>Please visit [www.codeByPete.com](https://www.codebypete.com) to join me, on ***myCodingJourney***.  
+- Bachelor's Degree in Biological Sciences
+- 20 year Pharmaceutical Professional
+- Long-time computer geek
+- Pursuing a passion of being a Software Developer
 
-'Medicine is my destiny,' or so I was told. I have a Bachelor's Degree in Biological Sciences, and my 𝚜𝚝𝚊𝚝𝚒𝚘𝚗𝙸𝚗𝙻𝚒𝚏𝚎 was in the Pharmaceutical Engineering space for over two decades.
+## Technology Stack
+- [x] HTML
+- [x] CSS
+- [x] JavaScript
+- [x] Bootstrap
+- [x] Git
+- [x] VS Code
 
-At the mid-point of my career, I enrolled in a Full Stack Coding Bootcamp to pursue my childhood dream of being a Software Developer.
-
-Please join me, on 𝚖𝚢𝙲𝚘𝚍𝚒𝚗𝚐𝙹𝚘𝚞𝚛𝚗𝚎𝚢.
-
-www.codeByPete.com
-
-Pete
-
-<!---
-CodeTrackLift/CodeTrackLift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Future Roadmap
+<img src='https://www.codebypete.com/pics/about/mitxPro_logoStacked.jpg' alt='MIT xPro logo' width='20'> MERN Full Stack Coding Bootcamp (in progress, Jul 2022)
+- [ ] MongoDB
+- [ ] Express
+- [ ] React
+- [ ] Node JS
