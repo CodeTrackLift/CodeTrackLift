@@ -4,7 +4,7 @@
 
 >Please visit [www.codeByPete.com](https://www.codebypete.com) to join me, on ***myCodingJourney***.  
 
-## About Me: 
+## About Me
 - Bachelor's Degree in Biological Sciences
 - 20 year Pharmaceutical Professional
 - Long-time computer geek
