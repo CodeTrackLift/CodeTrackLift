@@ -1,4 +1,4 @@
-# <img src='https://www.codebypete.com/pics/pharma2code_icon.gif' alt='codeByPete logo' width='30'> ***codeByPete*** 
+# <img src='https://www.codebypete.com/pics/pharma2code_icon.gif' alt='codeByPete logo' width='30'> ***codeByPete*** <img src='https://www.codebypete.com/pics/about/mitxPro_logoStacked.jpg' alt='MIT xPro logo' height='30'> 
 
 𝚜𝚝𝚊𝚝𝚒𝚘𝚗𝙸𝚗𝙻𝚒𝚏𝚎.𝚛𝚎𝚙𝚕𝚊𝚌𝚎( '𝙿𝚑𝚊𝚛𝚖𝚊𝚌𝚎𝚞𝚝𝚒𝚌𝚊𝚕 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛', '𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛' );
 
@@ -12,9 +12,4 @@
 - Pursuing a passion as a Software Developer
 
 ## Technology Stack
-<img src='https://www.codebypete.com/pics/about/html5_logo.gif' alt='HTML5 logo' width='30'> <img src='https://www.codebypete.com/pics/about/css3_logo.gif' alt='CSS3 logo' width='30'> <img src='https://www.codebypete.com/pics/about/javascript_logo.gif' alt='JavaScript logo' width='30'> <img src='https://www.codebypete.com/pics/about/bootstrap-logo.svg' alt='Bootstrap logo' width='35'> <img src='https://www.codebypete.com/pics/about/gitLogoOrangeRed.png' alt='VS Code logo' width='30'> <img src='https://www.codebypete.com/pics/about/vsCodeLogo.png' alt='VS Code logo' width='30'>
-
-## Future Roadmap
-<img src='https://www.codebypete.com/pics/about/mitxPro_logoStacked.jpg' alt='MIT xPro logo' height='45'> <img src='https://www.codebypete.com/pics/about/mernStackTrans.png' alt='VS Code logo' height='45'>
-
- Full Stack Coding Bootcamp (in progress, Jul 2022)
+<img src='https://www.codebypete.com/pics/about/html5_logo.gif' alt='HTML5 logo' width='30'> <img src='https://www.codebypete.com/pics/about/css3_logo.gif' alt='CSS3 logo' width='30'> <img src='https://www.codebypete.com/pics/about/javascript_logo.gif' alt='JavaScript logo' width='30'> <img src='https://www.codebypete.com/pics/about/bootstrap-logo.svg' alt='Bootstrap logo' width='35'> <img src='https://www.codebypete.com/pics/about/gitLogoOrangeRed.png' alt='VS Code logo' width='30'> <img src='https://www.codebypete.com/pics/about/vsCodeLogo.png' alt='VS Code logo' width='30'> <img src='https://www.codebypete.com/pics/about/jest_logo.gif' alt='Jest Logo' height='35'> <img src='https://www.codebypete.com/pics/about/mernStackTrans.png' alt='VS Code logo' height='40'>
