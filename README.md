@@ -7,6 +7,7 @@
 ## About Me <img src='https://www.codebypete.com/pics/about/cbpBlockie.png' width='20' alt='codeByPete blockie'> 
 
 - Bachelor's Degree in Biological Sciences
+- Professional Certificate in Full Stack MERN Development
 - 20 year Pharmaceutical Professional
 - Long-time computer geek
 - Pursuing a passion as a Software Developer
