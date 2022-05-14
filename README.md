@@ -2,7 +2,7 @@
 
 𝚜𝚝𝚊𝚝𝚒𝚘𝚗𝙸𝚗𝙻𝚒𝚏𝚎.𝚛𝚎𝚙𝚕𝚊𝚌𝚎( '𝙿𝚑𝚊𝚛𝚖𝚊𝚌𝚎𝚞𝚝𝚒𝚌𝚊𝚕 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛', '𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛' );
 
->Please visit [www.codeByPete.com](https://www.codebypete.com) to join me, on ***myCodingJourney***.  
+>Please visit [codeByPete.com](https://www.codebypete.com) to join me, on ***myCodingJourney***.  
 
 ## About Me <img src='./logos/cbpBlockie.png' width='20' alt='codeByPete blockie'> 
 
