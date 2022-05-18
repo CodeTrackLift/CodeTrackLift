@@ -1,4 +1,4 @@
-# <img src='./logos/mitxPro_logoStacked.jpg' alt='MIT xPro logo' height='30'> ***codeByPete*** <img src='./logos/giphyPharma2Code.gif' alt='codeByPete logo' width='25'> 
+# <img src='./logos/mitxPro_logoStacked.jpg' alt='MIT xPro logo' height='23'> ***codeByPete*** <img src='./logos/giphyPharma2Code.gif' alt='codeByPete logo' width='25'> 
 
 𝚜𝚝𝚊𝚝𝚒𝚘𝚗𝙸𝚗𝙻𝚒𝚏𝚎.𝚛𝚎𝚙𝚕𝚊𝚌𝚎( '𝙿𝚑𝚊𝚛𝚖𝚊𝚌𝚎𝚞𝚝𝚒𝚌𝚊𝚕 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛', '𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛' );
 
