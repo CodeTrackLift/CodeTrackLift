@@ -8,8 +8,8 @@
 
 ## About Me 
 
-- Bachelor's Degree in Biological Sciences
-- Professional Certificate in Full Stack MERN Development
+- University of Delaware, Bachelor's Degree in Biological Sciences
+- MIT xPRO, Professional Certificate in Full Stack MERN Development
 - 20 year Pharmaceutical Professional
 - Long-time computer geek with a focus on mobile first and responsive design
 - Pursuing a passion as a Software Developer
