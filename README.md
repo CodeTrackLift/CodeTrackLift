@@ -19,6 +19,7 @@
 
 - University of Delaware, Bachelor's Degree in Biological Sciences
 - MIT xPRO, Professional Certificate in Full Stack MERN Development
+- Frontend Software Engineering [Intership @Forbes-Media](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr)
 - Long-time computer geek focused on mobile first and responsive design
 - 20 year Pharmaceutical Professional
 - Pursuing a passion as a Software Developer
