@@ -20,9 +20,9 @@
 - University of Delaware, Bachelor's Degree in Biological Sciences
 - MIT xPRO, Professional Certificate in Full Stack MERN Development
 - Frontend Software Engineering [Intership @Forbes-Media](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr)
-- Long-time computer geek focused on mobile first and responsive design
 - 20 year Pharmaceutical Professional
 - Pursuing a passion as a Software Developer
+- Focused on mobile first and responsive design
 
 ## Technology Stack
 <img src='./logos/html5_logo.gif' alt='HTML5 logo' width='30'> <img src='./logos/css3_logo.gif' alt='CSS3 logo' width='30'> <img src='./logos/javascript_logo.gif' alt='JavaScript logo' width='30'> <img src='./logos/bootstrap-logo.svg' alt='Bootstrap logo' width='35'> <img src='./logos/gitLogoOrangeRed.png' alt='VS Code logo' width='30'> <img src='./logos/vsCodeLogo.png' alt='VS Code logo' width='30'> <img src='./logos/jest_logo.gif' alt='Jest Logo' height='35'> <img src='./logos/mernStackTrans.png' alt='VS Code logo' height='40'>
