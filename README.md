@@ -20,9 +20,8 @@
 - `University of Delaware` Bachelor's Degree in Biological Sciences
 - `MIT xPRO` Professional Certificate in Full Stack MERN Development
 - `Forbes-Media` Frontend Software Engineering [Intership](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr)
-- [Published Author](https://www.forbes.com/sites/forbesdigitalgroup/2022/08/10/8-weeks-as-a-43-year-old-software-engineering-intern/) on Forbes.com
-- 20 year Pharmaceutical Professional
-- Pursuing a passion as a Software Developer
+- [Published Author](https://www.forbes.com/sites/forbesdigitalgroup/2022/08/10/8-weeks-as-a-43-year-old-software-engineering-intern/) on `Forbes.com`
+- 20+ year Pharmaceutical Professional
 - Focused on mobile first and responsive design
 
 ## Technology Stack
