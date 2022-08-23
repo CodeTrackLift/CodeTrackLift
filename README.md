@@ -1,8 +1,6 @@
 # <img src='./logos/mitxPro_logoStacked.jpg' alt='MIT xPro logo' height='23'> ***codeByPete*** <img src='./logos/giphyPharma2Code.gif' alt='codeByPete logo' width='25'> 
 
-𝘀𝘁𝗮𝘁𝗶𝗼𝗻𝗜𝗻𝗟𝗶𝗳𝗲.𝗿𝗲𝗽𝗹𝗮𝗰𝗲('𝗤𝘂𝗮𝗹𝗶𝘁𝘆 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿', '𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿');
-
->Please visit [codeByPete.com](https://www.codebypete.com) to join me, on ***myCodingJourney***.  
+>Please visit [codeByPete.com](https://www.codebypete.com) to view my portfolio
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codetracklift&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
