@@ -7,21 +7,24 @@
 ## About Me 
 
 <div>
-  <a href="https://www.linkedin.com/in/codebypete/">
+  <a href="https://www.linkedin.com/in/codebypete/" target='_blank'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCVDOFoM5NXYrPoC02lbNJ-Q">
+  <a href="https://www.youtube.com/channel/UCVDOFoM5NXYrPoC02lbNJ-Q" target='_blank'>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
 
-- `University of Delaware` Bachelor's Degree
-- Experienced Pharmaceutical `Quality Engineer`
-- `MIT xPRO` Professional Certificate in Full Stack MERN Development
-- `Forbes-Media` Frontend Software Engineering [Internship](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr)
-- [Published Author](https://www.forbes.com/sites/forbesdigitalgroup/2022/08/10/8-weeks-as-a-43-year-old-software-engineering-intern/) on `Forbes.com`
+- `Web Developer` passionate about responsive design
+- University of Delaware `Bachelor's Degree`
+- `MIT xPRO` Professional Certificate in Coding
+- `Experienced professional` with translatable skills
+- `Forbes-Media` Software Engineering <a href='https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr' target='_blank'>Internship</a>
+- <a href='https://www.forbes.com/sites/forbesdigitalgroup/2022/08/10/8-weeks-as-a-43-year-old-software-engineering-intern/' target='_blank'>Published author</a> on `Forbes.com`
 
-> [Professional Recommendations](https://www.linkedin.com/in/codebypete/details/recommendations)
+*stationInLife.replace( 'Pharmaceutical Engineer', 'Web Developer');*
+
+> <a href="https://www.linkedin.com/in/codebypete/details/recommendations" target='_blank'>Professional Recommendations</a>
 
 ## Technology Stack
 <img src='./logos/html5_logo.gif' alt='HTML5 logo' width='30'> <img src='./logos/css3_logo.gif' alt='CSS3 logo' width='30'> <img src='./logos/javascript_logo.gif' alt='JavaScript logo' width='30'> <img src='./logos/bootstrap-logo.svg' alt='Bootstrap logo' width='35'> <img src='./logos/gitLogoOrangeRed.png' alt='VS Code logo' width='30'> <img src='./logos/vsCodeLogo.png' alt='VS Code logo' width='30'> <img src='./logos/mernStackTrans.png' alt='VS Code logo' height='40'>
