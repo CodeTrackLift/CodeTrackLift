@@ -22,7 +22,7 @@
 - `Forbes-Media` Software Engineering <a href='https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr' target='_blank'>Internship</a>
 - <a href='https://www.forbes.com/sites/forbesdigitalgroup/2022/08/10/8-weeks-as-a-43-year-old-software-engineering-intern/' target='_blank'>Published author</a> on `Forbes.com`
 
-*stationInLife.replace( 'Pharmaceutical Engineer', 'Web Developer');*
+*stationInLife.replace( 'Pharmaceutical Engineer', 'Web Developer' );*
 
 > <a href="https://www.linkedin.com/in/codebypete/details/recommendations" target='_blank'>Professional Recommendations</a>
 
