@@ -21,6 +21,8 @@
 - `Forbes-Media` Frontend Software Engineering [Internship](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr)
 - [Published Author](https://www.forbes.com/sites/forbesdigitalgroup/2022/08/10/8-weeks-as-a-43-year-old-software-engineering-intern/) on `Forbes.com`
 
+> [Professional Recommendations](https://www.linkedin.com/in/codebypete/details/recommendations)
+
 ## Technology Stack
 <img src='./logos/html5_logo.gif' alt='HTML5 logo' width='30'> <img src='./logos/css3_logo.gif' alt='CSS3 logo' width='30'> <img src='./logos/javascript_logo.gif' alt='JavaScript logo' width='30'> <img src='./logos/bootstrap-logo.svg' alt='Bootstrap logo' width='35'> <img src='./logos/gitLogoOrangeRed.png' alt='VS Code logo' width='30'> <img src='./logos/vsCodeLogo.png' alt='VS Code logo' width='30'> <img src='./logos/mernStackTrans.png' alt='VS Code logo' height='40'>
 
