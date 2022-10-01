@@ -1,6 +1,6 @@
 # <img src='./logos/mitxPro_logoStacked.jpg' alt='MIT xPro logo' height='23'> ***codeByPete*** <img src='./logos/giphyPharma2Code.gif' alt='codeByPete logo' width='25'> 
 
->Please visit [codeByPete.com](https://www.codebypete.com) to view my portfolio
+> Portfolio: <a href='https://www.codebypete.com' target='_blank'>codyByPete.com</a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codetracklift&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
