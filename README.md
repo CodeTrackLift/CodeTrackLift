@@ -1,6 +1,6 @@
 # <img src='./logos/mitxPro_logoStacked.jpg' alt='MIT xPro logo' height='23'> ***codeByPete*** <img src='./logos/giphyPharma2Code.gif' alt='codeByPete logo' width='25'> 
 
-> Portfolio: <a href='https://www.codebypete.com' target='_blank'>codyByPete.com</a>
+> Portfolio: [codyByPete.com](https://www.codebypete.com)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=codetracklift&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
@@ -19,12 +19,12 @@
 - University of Delaware `Bachelor's Degree`
 - `Massachusetts Institute of Technology`, MIT xPRO
 - Professional Certificate in Coding, Full Stack MERN Development
-- `Forbes Media` Software Engineering <a href='https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr' target='_blank'>Internship</a>
-- <a href='https://www.forbes.com/sites/forbesdigitalgroup/2022/08/10/8-weeks-as-a-43-year-old-software-engineering-intern/' target='_blank'>Published author</a> on `Forbes.com`
+- `Forbes Media` Software Engineering [Internship](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr)
+- [Published author](https://www.forbes.com/sites/forbesdigitalgroup/2022/08/10/8-weeks-as-a-43-year-old-software-engineering-intern/) on `Forbes.com`
 
 *stationInLife.replace( 'Pharmaceutical Engineer', 'Web Developer' );*
 
-> <a href="https://www.linkedin.com/in/codebypete/details/recommendations" target='_blank'>Professional Recommendations</a>
+> [Professional Recommendations](https://www.linkedin.com/in/codebypete/details/recommendations)
 
 ## Technology Stack
 <img src='./logos/html5_logo.gif' alt='HTML5 logo' width='30'> <img src='./logos/css3_logo.gif' alt='CSS3 logo' width='30'> <img src='./logos/javascript_logo.gif' alt='JavaScript logo' width='30'> <img src='./logos/bootstrap-logo.svg' alt='Bootstrap logo' width='35'> <img src='./logos/gitLogoOrangeRed.png' alt='VS Code logo' width='30'> <img src='./logos/vsCodeLogo.png' alt='VS Code logo' width='30'> <img src='./logos/mernStackTrans.png' alt='VS Code logo' height='40'>
