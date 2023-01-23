@@ -17,7 +17,7 @@ Portfolio: [codeByPete.com](https://www.codeByPete.com)
 - Professional Certificate in Coding, Full Stack MERN Development
 - `Forbes Media` Software Engineering [Internship](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr)
 - [Published author](https://www.forbes.com/sites/pete-chu/) on `Forbes.com`
-- Software Engineer at [Accolade, Inc.](https://www.accolade.com)
+- Software Engineer at [Accolade](https://www.accolade.com)
 
 *stationInLife.replace( 'Pharmaceutical Engineer', 'Web Developer' );*
 
