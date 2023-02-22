@@ -1,13 +1,13 @@
 # <img src='./logos/mitxPro_logoStacked.jpg' alt='MIT xPro logo' height='23'> ***codeByPete*** <img src='./logos/giphyPharma2Code.gif' alt='codeByPete logo' width='25'> 
 
-<!-- <div>
+<div>
   <a href="https://www.linkedin.com/in/codebypete/" target='_blank'>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCVDOFoM5NXYrPoC02lbNJ-Q" target='_blank'>
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-</div> -->
+</div>
 
 *stationInLife.replace( 'Pharmaceutical Engineer', 'Web Developer' );*
 
