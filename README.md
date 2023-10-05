@@ -11,8 +11,6 @@
 
 *stationInLife.replace( 'Pharmaceutical Engineer', 'Web Developer' );*
 
-> [Professional Recommendations](https://www.linkedin.com/in/codebypete/details/recommendations)
-
 - `Web Developer` passionate about responsive design
 - University of Delaware `Bachelor's Degree`
 - `Massachusetts Institute of Technology`, MIT xPRO
